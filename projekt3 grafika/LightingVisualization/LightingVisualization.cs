@@ -245,6 +245,5 @@
             phongOperator.Ka = tbKa.Value / 100.0;
             SetNewIcon();
         }
-
     }
 }

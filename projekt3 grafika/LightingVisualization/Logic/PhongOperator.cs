@@ -5,7 +5,6 @@
     using System.Drawing.Imaging;
     using Model;
     using Helpers;
-    using DevExpress.XtraEditors;
     using System.Windows.Forms;
 
     public class PhongOperator

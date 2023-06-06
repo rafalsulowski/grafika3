@@ -1,0 +1,11 @@
+C:\Users\01159502\Desktop\grafika3\grafika3\projekt3 grafika\LightingVisualization\bin\Release\LightingVisualization.exe.config
+C:\Users\01159502\Desktop\grafika3\grafika3\projekt3 grafika\LightingVisualization\bin\Release\LightingVisualization.exe
+C:\Users\01159502\Desktop\grafika3\grafika3\projekt3 grafika\LightingVisualization\bin\Release\LightingVisualization.pdb
+C:\Users\01159502\Desktop\grafika3\grafika3\projekt3 grafika\LightingVisualization\obj\Release\LightingVisualization.csproj.AssemblyReference.cache
+C:\Users\01159502\Desktop\grafika3\grafika3\projekt3 grafika\LightingVisualization\obj\Release\LightingVisualization.csproj.SuggestedBindingRedirects.cache
+C:\Users\01159502\Desktop\grafika3\grafika3\projekt3 grafika\LightingVisualization\obj\Release\LightingVisualization.LightingVisualization.resources
+C:\Users\01159502\Desktop\grafika3\grafika3\projekt3 grafika\LightingVisualization\obj\Release\LightingVisualization.Properties.Resources.resources
+C:\Users\01159502\Desktop\grafika3\grafika3\projekt3 grafika\LightingVisualization\obj\Release\LightingVisualization.csproj.GenerateResource.cache
+C:\Users\01159502\Desktop\grafika3\grafika3\projekt3 grafika\LightingVisualization\obj\Release\LightingVisualization.csproj.CoreCompileInputs.cache
+C:\Users\01159502\Desktop\grafika3\grafika3\projekt3 grafika\LightingVisualization\obj\Release\LightingVisualization.exe
+C:\Users\01159502\Desktop\grafika3\grafika3\projekt3 grafika\LightingVisualization\obj\Release\LightingVisualization.pdb
