@@ -134,6 +134,11 @@
             surface.Ks = 0.25;   tbKs.Value = 25;
             surface.Kd = 0.75;   tbKd.Value = 75;
             surface.N = 5;       tbN.Value = 5;
+
+            Graphics g = Graphics.FromImage(shadedBitmap);
+            g.Clear(Color.FromArgb(36, 45, 64));
+            g.FillEllipse(new SolidBrush(Color.SaddleBrown), 100, 100, 300, 300);
+
             SetNewIcon();
             m_Mode = 1;
         }
@@ -144,6 +149,11 @@
             surface.Ks = 0.5;   tbKs.Value = 50;
             surface.Kd = 0.5;   tbKd.Value = 50;
             surface.N = 10;     tbN.Value = 10;
+
+            Graphics g = Graphics.FromImage(shadedBitmap);
+            g.Clear(Color.FromArgb(36, 45, 64));
+            g.FillEllipse(new SolidBrush(Color.SaddleBrown), 100, 100, 300, 300);
+
             SetNewIcon();
             m_Mode = 2;
         }
@@ -154,6 +164,12 @@
             surface.Ks = 0.75;  tbKs.Value = 75;
             surface.Kd = 0.30;  tbKd.Value = 30;
             surface.N = 100;    tbN.Value = 100;
+
+            Graphics g = Graphics.FromImage(shadedBitmap);
+            g.Clear(Color.FromArgb(36, 45, 64));
+            g.FillEllipse(new SolidBrush(Color.Gray), 100, 100, 300, 300);
+            GraphicIcon.Image = shadedBitmap;
+
             SetNewIcon();
             m_Mode = 3;
         }
